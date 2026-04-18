@@ -1,0 +1,4 @@
+ocean_system:
+  max_depth: 11000
+  wave_unit: "meters"
+  temperature_unit: "celsius"
